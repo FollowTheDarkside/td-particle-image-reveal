@@ -7,7 +7,7 @@
 A repository for particle image reveal using [TouchDesigner](https://derivative.ca/).
 <br>
 <br>
-Demo video is ~~[here]()~~.
+Demo video is [here](https://youtu.be/iUCTwA5-Bu8).
 <br>
 <br>
 
